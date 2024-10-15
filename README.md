@@ -4,8 +4,8 @@
 <h1 align=center>💖 Hello, It's Rachel Here👋</h1>
 <p align ="center"><img src=https://github.com/user-attachments/assets/8ac8b8d2-a9ab-40c0-9b56-e2799f7f8915
 height =250></p>
-<h3 align ="center">  I am a final-year student passionate about artificial intelligence and software development. 🤖  </h3>
-<h3 align ="center">Fun Fact: I am pursuing my interest in AI in healthcare, specializing in cardiovascular disease.🫀</h3> 
+<h3 align ="center">🌐I am a final-year student passionate about artificial intelligence and software development. 🤖  </h3>
+<h3 align ="center">🩻Fun Fact: I am pursuing my interest in AI in healthcare, specializing in cardiovascular disease.🫀</h3> 
 <br>
 
 <h1 align="center">👯Let's Connect!📫 </h1>
