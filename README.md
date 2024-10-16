@@ -5,7 +5,7 @@
 <p align ="center"><img src=https://github.com/user-attachments/assets/8ac8b8d2-a9ab-40c0-9b56-e2799f7f8915
 height =250></p>
 <h3 align ="center">🌐I am a final-year student passionate about artificial intelligence and software development. 🤖  </h3>
-<h3 align ="center">🩻Fun Fact: I am pursuing my interest in AI in healthcare, specializing in cardiovascular disease.🫀</h3> 
+<h3 align ="center">🩻Fun Fact: I am focusing on advancing my expertise in AI applications within healthcare, particularly in the area of cardiovascular disease diagnosis.🫀</h3> 
 <br>
 
 <h1 align="center"> 👩‍💻Languages and Tools💻</h1>
