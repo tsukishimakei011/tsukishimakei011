@@ -38,7 +38,7 @@ height =250 ></p>
 </p>
 
 <br>
-<h1 align="center">💥生きてるおばけは生きている✨</h1>
+<h1 align="center">:)</h1>
 <p align="center">
    <img src="https://spotify-recently-played-readme.vercel.app/api?user=53lfwxuosptx5np3q83jvy30x" alt="Recently Played on Spotify" />
 
